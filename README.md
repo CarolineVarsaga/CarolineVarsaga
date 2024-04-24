@@ -5,5 +5,4 @@
 - 👯 I’m looking to collaborate on exciting projects
 - 🤔 I’m looking for internships in Örnsköldsvik, fall -24
 - 📫 How to reach me: carolinevarsaga@gmail.com
-- ⚡ Fun fact: I'm a pastry chef who loves computers, and fika... 
 
