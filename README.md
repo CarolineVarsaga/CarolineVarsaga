@@ -4,6 +4,7 @@ I'm currently studying Front End Development at Medieinstitutet. I'm really look
 - 👩🏻‍💻 I’m currently doing my second internship (we're using GitLab, that's why I'm looking inactive, believe me - I'm not!)😄
 - 👯 I’m looking to collaborate on exciting projects
 - 📫 How to reach me: carolinevarsaga@gmail.com
+- 💻 Website: https://www.carolinevarsaga.se
 
 ## My Tech Stack 🤖
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
