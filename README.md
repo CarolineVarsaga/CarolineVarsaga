@@ -1,7 +1,7 @@
 # Hello there 🤩👋
-I'm currently studying Front End Development at Medieinstitutet. I'm really looking forward to work with this in the future!👏 
+I'm a Front End Developer. I'm really looking forward to work with this in the future!👏 
+You got any work opportunities?
 
-- 👩🏻‍💻 I’m currently doing my second internship at RentalBuddy (we're using GitLab, that's why I'm looking inactive, believe me - I'm not!)😄
 - 👯 I’m looking to collaborate on exciting projects
 - 📫 How to reach me: carolinevarsaga@gmail.com
 - 💻 Website: https://www.carolinevarsaga.se
