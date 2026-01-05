@@ -1,6 +1,5 @@
 # Hello there 🤩👋
-I'm a Front End Developer. I'm really looking forward to work with this in the future!👏 
-You got any work opportunities?
+I'm a Front End Developer.
 
 - 👯 I’m looking to collaborate on exciting projects
 - 📫 How to reach me: carolinevarsaga@gmail.com
